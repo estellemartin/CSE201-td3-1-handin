@@ -36,6 +36,7 @@ int main(int argc, char* argv[])
 
   {
         std::cout << "First git commit" << std::endl;
+
   }
   // END OF THE CUSTOM CODE SECTION
 #else
